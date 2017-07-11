@@ -22,9 +22,9 @@ Example:
 ant run -Darg0=reg-input.txt -Darg1=add-drop.txt -Darg2=output.txt -Darg3=2 -Darg4=0
 
 The files are read/written from/to here:
-	john_doe/registrationScheduler/reg-input.txt
-	john_doe/registrationScheduler/add-drop.txt
-	john_doe/registrationScheduler/output.txt
+	himanshu_singh_assignment2/registrationScheduler/reg-input.txt
+	himanshu_singh_assignment2/registrationScheduler/add-drop.txt
+	himanshu_singh_assignment2/registrationScheduler/output.txt
 will run 2 threads
 will use Logger for debug level 0
 
