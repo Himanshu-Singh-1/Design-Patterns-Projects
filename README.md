@@ -1,24 +1,24 @@
 # Design Patterns
 
-1) Task 1
+1) Project 1
 
 Goal:
 
 Special Functionalities Implemented
 
-2) Task 2
+2) Project 2
 
 Goal:
 
 Special Functionalities Implemented
 
-3) Task 3
+3) Project 3
 
 Goal:
 
 Special Functionalities Implemented
 
-4) Task 4
+4) Project 4
 
 Goal:
 
