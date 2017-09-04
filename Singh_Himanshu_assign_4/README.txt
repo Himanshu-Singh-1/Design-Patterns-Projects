@@ -26,7 +26,7 @@ ant -buildfile src/build.xml clean
 ant -buildfile src/build.xml all
 -----------------------------------------------------------------------
 
-## TO RUN BY SPECIFYING ARGUMENTS FROM COMMAND LINE 
+## TO RUN BY SPECIFYING ARGUMENTS FROM COMMAND LINE:
 ant -buildfile src/build.xml run -Darg0=input.txt -Darg1=output.txt -Darg2=2
 -----------------------------------------------------------------------
 
