@@ -1,5 +1,5 @@
-﻿-----------------------------------------------------------------------
-
+﻿
+-----------------------------------------------------------------------
 PROJECT DESCRIPTION:
 In this project we need to create objects of two kids types of classes: first & second and then Serialize them again into XML file using java reflection. Correctness of code is checked by comparing the input XML and created output XML file. Java reflections is used to read the values of all object from input XML file.
 -----------------------------------------------------------------------
