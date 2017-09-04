@@ -1,5 +1,4 @@
 ﻿-----------------------------------------------------------------------
-
 ## PROJECT DESCIPTION:
 The project required us to implement a 26*26 cells of spreadhseet cell numbers are alphanumeric eg A1,Z26. An input file is provided containing formulas for manipulation of cell. 
 Each line in input file every cell is assigned a value as absolute numeric or sum of integer plus another cells value or as sum of multiple cell values. The project process each of the input line sequentially and ignores the lines if they create a cycle. The output is the value of all cells after the manipulations in input file are all executed. 
