@@ -1,34 +1,34 @@
------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+PROJECT DESCRIPTION
+----------------------------------------------------------------------------------------------------------------------------------------
 
-##DESCRIPTION:
-This project required us to assign courses to students according to their preference from a pool of 8 courses each of which has 20 seats. Courses were 
-assigned in preference of registration time. Hence two text files are used as input.
------------------------------------------------------------------------
+Goal: This project required us to assign courses to students according to their preference from a pool of 8 courses each of which has 20 seats. Courses were assigned in preference of registration time. Hence two text files are used as input.
 
-##INPUT:
-1. preference_input: has the course preference for each student.
-2. regtime_input: has the time of registration request for each student.
------------------------------------------------------------------------
+  # INPUT
 
-##OUTPUT:
-output.txt saves courses assigned to students. 
------------------------------------------------------------------------
+    1. preference_input: has the course preference for each student
+    2. regtime_input: has the time of registration request for each student
 
-## TO CLEAN:
-ant -buildfile src/build.xml clean
------------------------------------------------------------------------
+  # OUTPUT
 
-## TO COMPILE: 
-ant -buildfile src/build.xml all
------------------------------------------------------------------------
-
-## TO RUN BY SPECIFYING ARGUMENTS FROM COMMAND LINE: 
-ant -buildfile src/build.xml run -Darg0=firstarg -Darg1=SECOND -Darg2=THIRD
------------------------------------------------------------------------
-
-## TO CREATE TARBALL FOR SUBMISSION:
-ant -buildfile src/build.xml tarzip
------------------------------------------------------------------------
+    output.txt saves courses assigned to students 
 
 
+  # TO CLEAN
 
+    ant -buildfile src/build.xml clean
+
+
+  # TO COMPILE 
+
+    ant -buildfile src/build.xml all
+
+
+  # TO RUN BY SPECIFYING ARGUMENTS FROM COMMAND LINE 
+
+    ant -buildfile src/build.xml run -Darg0=firstarg -Darg1=SECOND -Darg2=THIRD
+
+
+  # TO CREATE TARBALL FOR SUBMISSION
+
+    ant -buildfile src/build.xml tarzip
